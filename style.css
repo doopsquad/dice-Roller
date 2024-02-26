@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 125px;
+    visibility: hidden;
+}
+
+.container {
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
